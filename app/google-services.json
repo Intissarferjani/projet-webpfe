@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756803063648",
+    "project_id": "formation-cb750",
+    "storage_bucket": "formation-cb750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756803063648:android:75b907e8167eafd6d15805",
+        "android_client_info": {
+          "package_name": "com.example.seance1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjekPjUoChyAFUy-nWyWB-96SLyrD47mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
